@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1736495992504
+current_stage: None
+description: ''
+last_updated_timestamp: 1736495992504
+name: KNN
+run_id: 62bbf5d28b9745ff8580c12e715b1294
+run_link: ''
+source: file:///c:/Users/LENOVO/Desktop/Guvi_project/mlruns/391970237538713523/62bbf5d28b9745ff8580c12e715b1294/artifacts/KNeighbors_model
+status: READY
+status_message: null
+storage_location: file:///c:/Users/LENOVO/Desktop/Guvi_project/mlruns/391970237538713523/62bbf5d28b9745ff8580c12e715b1294/artifacts/KNeighbors_model
+user_id: null
+version: 3

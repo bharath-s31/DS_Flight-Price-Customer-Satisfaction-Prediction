@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1739438330325
+current_stage: None
+description: ''
+last_updated_timestamp: 1739438330325
+name: AdaboostingRegressor
+run_id: a388d1b3c71644b999474b5fb61b0bc5
+run_link: ''
+source: file:///c:/Users/LENOVO/Desktop/Guvi_project/mlruns/391970237538713523/a388d1b3c71644b999474b5fb61b0bc5/artifacts/AdaBoost_model
+status: READY
+status_message: null
+storage_location: file:///c:/Users/LENOVO/Desktop/Guvi_project/mlruns/391970237538713523/a388d1b3c71644b999474b5fb61b0bc5/artifacts/AdaBoost_model
+user_id: null
+version: 3

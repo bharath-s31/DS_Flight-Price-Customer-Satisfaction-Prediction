@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1739515424609
+current_stage: None
+description: ''
+last_updated_timestamp: 1739515424609
+name: LogisticRegression
+run_id: 6a4b4bfea85946869db7603abef42f2d
+run_link: ''
+source: file:///c:/Users/LENOVO/Desktop/Guvi_project/mlruns/403841464342790035/6a4b4bfea85946869db7603abef42f2d/artifacts/LogisticRegression_model
+status: READY
+status_message: null
+storage_location: file:///c:/Users/LENOVO/Desktop/Guvi_project/mlruns/403841464342790035/6a4b4bfea85946869db7603abef42f2d/artifacts/LogisticRegression_model
+user_id: null
+version: 1

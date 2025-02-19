@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1739438170487
+current_stage: None
+description: ''
+last_updated_timestamp: 1739438170487
+name: LinearRegression
+run_id: cd528040d2f84263bfe0d0822a5a8326
+run_link: ''
+source: file:///c:/Users/LENOVO/Desktop/Guvi_project/mlruns/391970237538713523/cd528040d2f84263bfe0d0822a5a8326/artifacts/LinearRegression_model
+status: READY
+status_message: null
+storage_location: file:///c:/Users/LENOVO/Desktop/Guvi_project/mlruns/391970237538713523/cd528040d2f84263bfe0d0822a5a8326/artifacts/LinearRegression_model
+user_id: null
+version: 4

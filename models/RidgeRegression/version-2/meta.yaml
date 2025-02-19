@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1736485841586
+current_stage: None
+description: ''
+last_updated_timestamp: 1736485841586
+name: RidgeRegression
+run_id: 6c1cc79ef27c47f18f13734071785c70
+run_link: ''
+source: file:///c:/Users/LENOVO/Desktop/Guvi_project/mlruns/391970237538713523/6c1cc79ef27c47f18f13734071785c70/artifacts/Ridge_model
+status: READY
+status_message: null
+storage_location: file:///c:/Users/LENOVO/Desktop/Guvi_project/mlruns/391970237538713523/6c1cc79ef27c47f18f13734071785c70/artifacts/Ridge_model
+user_id: null
+version: 2

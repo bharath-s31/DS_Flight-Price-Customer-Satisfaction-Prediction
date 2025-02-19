@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1736486758224
+current_stage: None
+description: ''
+last_updated_timestamp: 1736486758224
+name: LassoRegression
+run_id: e6e5b12eac8445e5831e8c20f81323be
+run_link: ''
+source: file:///c:/Users/LENOVO/Desktop/Guvi_project/mlruns/391970237538713523/e6e5b12eac8445e5831e8c20f81323be/artifacts/Lasso_model
+status: READY
+status_message: null
+storage_location: file:///c:/Users/LENOVO/Desktop/Guvi_project/mlruns/391970237538713523/e6e5b12eac8445e5831e8c20f81323be/artifacts/Lasso_model
+user_id: null
+version: 3

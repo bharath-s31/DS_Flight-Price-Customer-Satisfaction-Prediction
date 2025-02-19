@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1739515538867
+current_stage: None
+description: ''
+last_updated_timestamp: 1739515538867
+name: LassoClassifier
+run_id: 9282a9a069584ba0b7e2e3bab2d792c6
+run_link: ''
+source: file:///c:/Users/LENOVO/Desktop/Guvi_project/mlruns/403841464342790035/9282a9a069584ba0b7e2e3bab2d792c6/artifacts/Lasso_model
+status: READY
+status_message: null
+storage_location: file:///c:/Users/LENOVO/Desktop/Guvi_project/mlruns/403841464342790035/9282a9a069584ba0b7e2e3bab2d792c6/artifacts/Lasso_model
+user_id: null
+version: 1

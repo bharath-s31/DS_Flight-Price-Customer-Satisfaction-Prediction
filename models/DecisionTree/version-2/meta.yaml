@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1736485830221
+current_stage: None
+description: ''
+last_updated_timestamp: 1736485830221
+name: DecisionTree
+run_id: d79ce69a892b492abeff119e697749d9
+run_link: ''
+source: file:///c:/Users/LENOVO/Desktop/Guvi_project/mlruns/391970237538713523/d79ce69a892b492abeff119e697749d9/artifacts/DecisionTree_model
+status: READY
+status_message: null
+storage_location: file:///c:/Users/LENOVO/Desktop/Guvi_project/mlruns/391970237538713523/d79ce69a892b492abeff119e697749d9/artifacts/DecisionTree_model
+user_id: null
+version: 2

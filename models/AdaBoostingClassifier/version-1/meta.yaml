@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1739515488635
+current_stage: None
+description: ''
+last_updated_timestamp: 1739515488635
+name: AdaBoostingClassifier
+run_id: 88aff6a7196242d19a905a98ac8e4f80
+run_link: ''
+source: file:///c:/Users/LENOVO/Desktop/Guvi_project/mlruns/403841464342790035/88aff6a7196242d19a905a98ac8e4f80/artifacts/AdaBoost_model
+status: READY
+status_message: null
+storage_location: file:///c:/Users/LENOVO/Desktop/Guvi_project/mlruns/403841464342790035/88aff6a7196242d19a905a98ac8e4f80/artifacts/AdaBoost_model
+user_id: null
+version: 1

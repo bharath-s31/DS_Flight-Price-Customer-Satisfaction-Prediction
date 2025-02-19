@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1739515556727
+current_stage: None
+description: ''
+last_updated_timestamp: 1739515556727
+name: XgboostingClassifier
+run_id: 074f00c0573446c4a2d41e28682df238
+run_link: ''
+source: file:///c:/Users/LENOVO/Desktop/Guvi_project/mlruns/403841464342790035/074f00c0573446c4a2d41e28682df238/artifacts/XGBoost_model
+status: READY
+status_message: null
+storage_location: file:///c:/Users/LENOVO/Desktop/Guvi_project/mlruns/403841464342790035/074f00c0573446c4a2d41e28682df238/artifacts/XGBoost_model
+user_id: null
+version: 1

@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1736496019707
+current_stage: None
+description: ''
+last_updated_timestamp: 1736496019707
+name: RandomForestRegressor
+run_id: 1f6aaa6a93914534a33c4ae4a622d41d
+run_link: ''
+source: file:///c:/Users/LENOVO/Desktop/Guvi_project/mlruns/391970237538713523/1f6aaa6a93914534a33c4ae4a622d41d/artifacts/RandomForest_model
+status: READY
+status_message: null
+storage_location: file:///c:/Users/LENOVO/Desktop/Guvi_project/mlruns/391970237538713523/1f6aaa6a93914534a33c4ae4a622d41d/artifacts/RandomForest_model
+user_id: null
+version: 2

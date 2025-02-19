@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1739515473053
+current_stage: None
+description: ''
+last_updated_timestamp: 1739515473053
+name: RandomForestClassifier
+run_id: 2f1580d6763341b28c7a99dd2c8ff9f9
+run_link: ''
+source: file:///c:/Users/LENOVO/Desktop/Guvi_project/mlruns/403841464342790035/2f1580d6763341b28c7a99dd2c8ff9f9/artifacts/RandomForest_model
+status: READY
+status_message: null
+storage_location: file:///c:/Users/LENOVO/Desktop/Guvi_project/mlruns/403841464342790035/2f1580d6763341b28c7a99dd2c8ff9f9/artifacts/RandomForest_model
+user_id: null
+version: 1

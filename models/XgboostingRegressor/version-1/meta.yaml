@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1736439197352
+current_stage: None
+description: ''
+last_updated_timestamp: 1736439197352
+name: XgboostingRegressor
+run_id: c9eb2c29d1e8423ba051e405dd97d077
+run_link: ''
+source: file:///c:/Users/LENOVO/Desktop/Guvi_project/mlruns/391970237538713523/c9eb2c29d1e8423ba051e405dd97d077/artifacts/XGBoost_model
+status: READY
+status_message: null
+storage_location: file:///c:/Users/LENOVO/Desktop/Guvi_project/mlruns/391970237538713523/c9eb2c29d1e8423ba051e405dd97d077/artifacts/XGBoost_model
+user_id: null
+version: 1

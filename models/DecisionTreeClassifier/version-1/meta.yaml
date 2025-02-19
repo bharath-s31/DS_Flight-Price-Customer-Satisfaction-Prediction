@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1739515451704
+current_stage: None
+description: ''
+last_updated_timestamp: 1739515451704
+name: DecisionTreeClassifier
+run_id: 418b8232ed7e4bc1847a36c414d6a0fa
+run_link: ''
+source: file:///c:/Users/LENOVO/Desktop/Guvi_project/mlruns/403841464342790035/418b8232ed7e4bc1847a36c414d6a0fa/artifacts/DecisionTree_model
+status: READY
+status_message: null
+storage_location: file:///c:/Users/LENOVO/Desktop/Guvi_project/mlruns/403841464342790035/418b8232ed7e4bc1847a36c414d6a0fa/artifacts/DecisionTree_model
+user_id: null
+version: 1

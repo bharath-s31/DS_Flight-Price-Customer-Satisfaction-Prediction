@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1739515523029
+current_stage: None
+description: ''
+last_updated_timestamp: 1739515523029
+name: RidgeClassifier
+run_id: 59a4572e54764c058cb1b9d25bbc0d41
+run_link: ''
+source: file:///c:/Users/LENOVO/Desktop/Guvi_project/mlruns/403841464342790035/59a4572e54764c058cb1b9d25bbc0d41/artifacts/Ridge_model
+status: READY
+status_message: null
+storage_location: file:///c:/Users/LENOVO/Desktop/Guvi_project/mlruns/403841464342790035/59a4572e54764c058cb1b9d25bbc0d41/artifacts/Ridge_model
+user_id: null
+version: 1
