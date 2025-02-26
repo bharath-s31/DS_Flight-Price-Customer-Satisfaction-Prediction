@@ -134,11 +134,11 @@ if page == "Predict Flight Price":
     try:
         model_metrics = mlflow.get_run(logged_model.split("/")[1]).data.metrics
         r2_score = float(model_metrics.get('r2', 0))
-        mae = float(model_metrics.get('mae', 0))
+        rmse = float(model_metrics.get('rmse', 0))
         mse = float(model_metrics.get('mse', 0))
         st.sidebar.write(f"**R² Score:** {r2_score:.4f}")
-        st.sidebar.write(f"**MAE:** {mae:.4f}")
         st.sidebar.write(f"**MSE:** {mse:.4f}")
+        st.sidebar.write(f"**RMSE:** {rmse:.4f}")
     except Exception as e:
         st.sidebar.error(f"Error loading model metrics: {str(e)}")
 
