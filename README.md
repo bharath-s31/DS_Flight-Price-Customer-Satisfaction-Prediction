@@ -47,7 +47,11 @@ Build an end-to-end system to predict flight ticket prices based on multiple fac
 ## Project 2: Customer Satisfaction Prediction (Classification)
 
 ### **Skills Takeaway**
-- Python, Machine Learning, Streamlit, Classification Models, MLflow
+ - Python
+ - Streamlit
+ - Machine Learning
+ - Data Analysis
+ - MLflow
 
 ### **Problem Statement**
 Develop a classification system to predict customer satisfaction levels based on feedback, demographics, and service ratings.
